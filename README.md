@@ -1,6 +1,6 @@
 # EnergiX
 
-EnergiX is a modern web application built with React, TypeScript, and Vite, featuring a beautiful UI powered by Tailwind CSS and Radix UI components. It's a comprehensive energy management platform that connects consumers, utilities, and energy providers.
+EnergiX is a modern web application built with React, TypeScript, and Vite, featuring a beautiful UI powered by Radix UI components and styled with Tailwind CSS. It's a comprehensive energy management platform that connects consumers, utilities, and energy providers.
 
 ## 🚀 Features
 
