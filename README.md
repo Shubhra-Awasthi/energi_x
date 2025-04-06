@@ -2,6 +2,10 @@
 
 EnergiX is a modern web application built with React, TypeScript, and Vite, featuring a beautiful UI powered by Radix UI components and styled with Tailwind CSS. It's a comprehensive energy management platform that connects consumers, utilities, and energy providers.
 
+## 🌐 Live Demo
+
+Try out EnergiX live at: [https://energix-y57x.vercel.app/](https://energix-y57x.vercel.app/)
+
 ## 🚀 Features
 
 ### Core Platform Features
@@ -187,7 +191,13 @@ The build output will be in the `dist` directory.
 
 ## 🚀 Deployment
 
-The project is configured for deployment on Vercel. Simply push to your repository and Vercel will automatically deploy your application.
+The project is configured for deployment on Vercel. The live version is available at [https://energix-y57x.vercel.app/](https://energix-y57x.vercel.app/).
+
+To deploy your own instance:
+1. Fork this repository
+2. Connect your repository to Vercel
+3. Configure your environment variables
+4. Deploy!
 
 ## 📄 License
 
